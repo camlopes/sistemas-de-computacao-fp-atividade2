@@ -4,7 +4,7 @@
 
 <p>Segunda atividade realizada no período de 2020.1 da disciplina <b>Fundamentos de Programação</b> durante o curso de <b>Sistemas de Computação UFF</b>.
 
-Para saber o enunciado das questoes da prova acesse [Questoes da Prova.pdf]()
+Para saber o enunciado das questoes da prova acesse [Questoes da atividade.pdf](https://github.com/camlopes/sistemas-de-computacao-fp-atividade2/blob/main/Questoes%20da%20atividade.pdf)
 
 </p>
 
